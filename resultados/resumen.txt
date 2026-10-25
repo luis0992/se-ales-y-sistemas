@@ -1,0 +1,6 @@
+Muestras: 512; frecuencia de muestreo: 256 Hz; resolución: 0.50 Hz
+Error máximo de linealidad: 1.338e-16
+Desplazamiento circular: 32 muestras = 0.125 s
+Error máximo de la propiedad de desplazamiento: 3.375e-17
+Cambio máximo en magnitud por desplazamiento: 3.361e-17
+Picos positivos al duplicar la frecuencia: 8.0 Hz y 16.0 Hz
